@@ -1,0 +1,9 @@
+
+Suggestions (https://stg.urbanasolutions.io/login)
+--------------------------------------------------
+The current flow of this site is user friendly but I have few suggestion to make it more secure
+
+1. We can put "Recaptcha" on Login and Recovery password screen
+
+2. We can put the 4-digits or 6-digits of pin after submit the recovery email for Reset password
+   So once user will insert the correct PIN then only user can perform the passowrd recovery.
